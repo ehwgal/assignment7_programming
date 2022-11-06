@@ -9,7 +9,7 @@ This project uses a Portuguese [open-source TTS dataset](https://github.com/Edre
 STEPS TO RUN THIS PROJECT
 -----------------------------
 
-1. Download this project as a .zip file or use **``git clone``** to clone it to your local environment or Google Colab.
+1. Download this project as a .zip file or use **``git clone git@github.com:ehwgal/assignment7_programming.git``** to clone it to your local environment or Google Colab.
 
 2. Move into the root directory (**``cd assignment7_programming``**).
 
