@@ -21,7 +21,7 @@ The notebook file is meant to run in a Google Colab environment
 │   ├── drive
 │   ├────── MyDrive
 │   └────────── assignment7_programming  # directory downloaded from this GitHub project
-``
+```
 
 3. Execute **``run_model.ipynb``**.
 
