@@ -2,7 +2,7 @@ ASSIGNMENT 7 PROGRAMMING
 ----------------------------
 *by Ellemijn Galjaard*
 
-**Sidenote**: *Unfortunately, this project is not (yet) finished (the model is in the process of being trained and is not tested in any manner). This is because it already took a incredibly long time to get to where the notebook is now. I might add additional commits to evaluate the model in the future, but they won't count towards this assignment.*
+**Sidenote**: *Unfortunately, this project is not (yet) finished (the model is in the process of being trained and is not tested in any manner). This is because it already took a incredibly long time to get to where the notebook is now. I might add additional commits to finish training/evaluate the model in the future, but they won't count towards this assignment.*
 
 This project uses a Portuguese [open-source TTS dataset](https://github.com/Edresson/TTS-Portuguese-Corpus) (please refer to the following [LICENSE](https://github.com/Edresson/TTS-Portuguese-Corpus/blob/master/LICENSE)) to train a [COQUI-based](https://github.com/coqui-ai/TTS) TTS model (please refer to the following [LICENSE](https://github.com/coqui-ai/TTS/blob/dev/LICENSE.txt)). This project is a school project and not intended for commercial use.
 
