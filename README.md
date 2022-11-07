@@ -11,9 +11,11 @@ This project uses a Portuguese [open-source TTS dataset](https://github.com/Edre
 STEPS TO RUN THIS PROJECT
 -----------------------------
 
-1. Download this project as a .zip file or use **``git clone git@github.com:ehwgal/assignment7_programming.git``** to clone it to your local environment or Google Colab.
+The notebook file is meant to run in a Google Colab environment
 
-2. Move into the root directory (**``cd assignment7_programming``**).
+1. Please download or clone this project to your Google Colab.
+
+2. Make sure your directory/file structure is set up in the following way:
 
 3. Execute **``run_model.ipynb``**.
 
