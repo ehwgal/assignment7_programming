@@ -2,7 +2,7 @@ ASSIGNMENT 7 PROGRAMMING
 ----------------------------
 *by Ellemijn Galjaard*
 
-**Sidenote**: *Unfortunately, this project is only partly finished (the model is trained for only a single epoch and is not tested in any manner). This is because it already took a really long time to get the data and model to work as I wanted it to. I might add additional commits to evaluate the model in the future, but they won't count towards this assignment.*
+**Sidenote**: *Unfortunately, this project is not (yet) finished (the model is in the process of being trained and is not tested in any manner). This is because it already took a incredibly long time to get to where the notebook is now. I might add additional commits to evaluate the model in the future, but they won't count towards this assignment.*
 
 This project uses a Portuguese [open-source TTS dataset](https://github.com/Edresson/TTS-Portuguese-Corpus) (please refer to the following [LICENSE](https://github.com/Edresson/TTS-Portuguese-Corpus/blob/master/LICENSE)) to train a [COQUI-based](https://github.com/coqui-ai/TTS) TTS model (please refer to the following [LICENSE](https://github.com/coqui-ai/TTS/blob/dev/LICENSE.txt)). This project is a school project and not intended for commercial use.
 
@@ -15,7 +15,13 @@ The notebook file is meant to run in a Google Colab environment
 
 1. Please download or clone this project to your Google Colab.
 
-2. Make sure your directory/file structure is set up in the following way:
+2. Make sure your directory/file structure on your Google Drive is set up in the following way:
+```
+├── content    # root directory                     
+│   ├── drive
+│   ├────── MyDrive
+│   └────────── assignment7_programming  # directory downloaded from this GitHub project
+``
 
 3. Execute **``run_model.ipynb``**.
 
