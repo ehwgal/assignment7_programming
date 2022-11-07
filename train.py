@@ -1,3 +1,7 @@
+### THIS FILE IS ORIGINALLY FROM HERE: https://github.com/coqui-ai/TTS/blob/dev/recipes/ljspeech/glow_tts/train_glowtts.py
+### BUT WAS ADJUSTED SLIGHTLY
+
+
 import os
 
 # Trainer: Where the ✨️ happens.
